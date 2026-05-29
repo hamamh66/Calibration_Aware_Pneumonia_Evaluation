@@ -1,0 +1,3 @@
+method,ece,nll,brier_score,mean_entropy,mean_std,note
+mc_dropout,0.11432769613817326,0.29825308010328594,0.08259344829967896,0.2626038889790381,0.06257531716739088,
+deep_ensemble,,,,,,Set RUN_DEEP_ENSEMBLE=True to train the ensemble reference.

@@ -1,0 +1,46 @@
+cost_profile,pressure_level,scenario,action,count,percentage,policy_entropy,effective_number_of_actions,unsafe_low_action_pneumonia_cases,false_negative_cost,false_positive_cost,seasonal_pressure
+primary_care,low_pressure,primary_care_low_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.15
+primary_care,low_pressure,primary_care_low_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.15
+primary_care,low_pressure,primary_care_low_pressure,Request additional evidence or repeat imaging,119,19.07051282051282,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.15
+primary_care,low_pressure,primary_care_low_pressure,Clinician review recommended,0,0.0,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.15
+primary_care,low_pressure,primary_care_low_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.15
+primary_care,moderate_pressure,primary_care_moderate_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.4
+primary_care,moderate_pressure,primary_care_moderate_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.4
+primary_care,moderate_pressure,primary_care_moderate_pressure,Request additional evidence or repeat imaging,119,19.07051282051282,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.4
+primary_care,moderate_pressure,primary_care_moderate_pressure,Clinician review recommended,0,0.0,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.4
+primary_care,moderate_pressure,primary_care_moderate_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974,1.1467302278122555,3.1478832027321095,2,0.8,0.4,0.4
+primary_care,high_pressure,primary_care_high_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.147917218850593,3.1516219303626096,2,0.8,0.4,0.7
+primary_care,high_pressure,primary_care_high_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.147917218850593,3.1516219303626096,2,0.8,0.4,0.7
+primary_care,high_pressure,primary_care_high_pressure,Request additional evidence or repeat imaging,118,18.91025641025641,1.147917218850593,3.1516219303626096,2,0.8,0.4,0.7
+primary_care,high_pressure,primary_care_high_pressure,Clinician review recommended,0,0.0,1.147917218850593,3.1516219303626096,2,0.8,0.4,0.7
+primary_care,high_pressure,primary_care_high_pressure,Escalate review: high-risk but uncertain,57,9.134615384615385,1.147917218850593,3.1516219303626096,2,0.8,0.4,0.7
+emergency,low_pressure,emergency_low_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.15
+emergency,low_pressure,emergency_low_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.15
+emergency,low_pressure,emergency_low_pressure,Request additional evidence or repeat imaging,119,19.07051282051282,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.15
+emergency,low_pressure,emergency_low_pressure,Clinician review recommended,0,0.0,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.15
+emergency,low_pressure,emergency_low_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.15
+emergency,moderate_pressure,emergency_moderate_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.4
+emergency,moderate_pressure,emergency_moderate_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.4
+emergency,moderate_pressure,emergency_moderate_pressure,Request additional evidence or repeat imaging,119,19.07051282051282,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.4
+emergency,moderate_pressure,emergency_moderate_pressure,Clinician review recommended,0,0.0,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.4
+emergency,moderate_pressure,emergency_moderate_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974,1.1467302278122555,3.1478832027321095,2,1.5,0.4,0.4
+emergency,high_pressure,emergency_high_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.147917218850593,3.1516219303626096,2,1.5,0.4,0.7
+emergency,high_pressure,emergency_high_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.147917218850593,3.1516219303626096,2,1.5,0.4,0.7
+emergency,high_pressure,emergency_high_pressure,Request additional evidence or repeat imaging,118,18.91025641025641,1.147917218850593,3.1516219303626096,2,1.5,0.4,0.7
+emergency,high_pressure,emergency_high_pressure,Clinician review recommended,0,0.0,1.147917218850593,3.1516219303626096,2,1.5,0.4,0.7
+emergency,high_pressure,emergency_high_pressure,Escalate review: high-risk but uncertain,57,9.134615384615385,1.147917218850593,3.1516219303626096,2,1.5,0.4,0.7
+outbreak,low_pressure,outbreak_low_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.15
+outbreak,low_pressure,outbreak_low_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.15
+outbreak,low_pressure,outbreak_low_pressure,Request additional evidence or repeat imaging,119,19.07051282051282,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.15
+outbreak,low_pressure,outbreak_low_pressure,Clinician review recommended,0,0.0,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.15
+outbreak,low_pressure,outbreak_low_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.15
+outbreak,moderate_pressure,outbreak_moderate_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.4
+outbreak,moderate_pressure,outbreak_moderate_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.4
+outbreak,moderate_pressure,outbreak_moderate_pressure,Request additional evidence or repeat imaging,119,19.07051282051282,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.4
+outbreak,moderate_pressure,outbreak_moderate_pressure,Clinician review recommended,0,0.0,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.4
+outbreak,moderate_pressure,outbreak_moderate_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974,1.1467302278122555,3.1478832027321095,2,2.0,0.3,0.4
+outbreak,high_pressure,outbreak_high_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204,1.147917218850593,3.1516219303626096,2,2.0,0.3,0.7
+outbreak,high_pressure,outbreak_high_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25,1.147917218850593,3.1516219303626096,2,2.0,0.3,0.7
+outbreak,high_pressure,outbreak_high_pressure,Request additional evidence or repeat imaging,118,18.91025641025641,1.147917218850593,3.1516219303626096,2,2.0,0.3,0.7
+outbreak,high_pressure,outbreak_high_pressure,Clinician review recommended,0,0.0,1.147917218850593,3.1516219303626096,2,2.0,0.3,0.7
+outbreak,high_pressure,outbreak_high_pressure,Escalate review: high-risk but uncertain,57,9.134615384615385,1.147917218850593,3.1516219303626096,2,2.0,0.3,0.7

@@ -1,0 +1,21 @@
+scenario,action,count,percentage
+low_prevalence_low_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204
+low_prevalence_low_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25
+low_prevalence_low_pressure,Request additional evidence or repeat imaging,119,19.07051282051282
+low_prevalence_low_pressure,Clinician review recommended,0,0.0
+low_prevalence_low_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974
+baseline_workflow_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204
+baseline_workflow_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25
+baseline_workflow_pressure,Request additional evidence or repeat imaging,119,19.07051282051282
+baseline_workflow_pressure,Clinician review recommended,0,0.0
+baseline_workflow_pressure,Escalate review: high-risk but uncertain,56,8.974358974358974
+high_prevalence_high_pressure,Low-risk monitoring / outpatient follow-up,98,15.705128205128204
+high_prevalence_high_pressure,Treat as likely pneumonia with clinician confirmation,351,56.25
+high_prevalence_high_pressure,Request additional evidence or repeat imaging,115,18.42948717948718
+high_prevalence_high_pressure,Clinician review recommended,0,0.0
+high_prevalence_high_pressure,Escalate review: high-risk but uncertain,60,9.615384615384615
+resource_constrained_setting,Low-risk monitoring / outpatient follow-up,98,15.705128205128204
+resource_constrained_setting,Treat as likely pneumonia with clinician confirmation,355,56.89102564102564
+resource_constrained_setting,Request additional evidence or repeat imaging,121,19.391025641025642
+resource_constrained_setting,Clinician review recommended,0,0.0
+resource_constrained_setting,Escalate review: high-risk but uncertain,50,8.012820512820513

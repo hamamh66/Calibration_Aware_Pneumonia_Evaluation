@@ -1,0 +1,2 @@
+calibration_method,validation_selected_method_by_ece,selection_policy,temperature_parameter,threshold,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,average_precision,brier_score,nll
+temperature_scaling,isotonic_regression,ranking_preserving_temperature_primary,0.9216806722499568,0.39499999999999996,0.8589743589743589,0.8162393162393162,0.8226495726495726,0.9871794871794872,0.8974358974358975,0.9605413105413105,0.9746587157384189,0.10869918744656519,0.4661434159211795

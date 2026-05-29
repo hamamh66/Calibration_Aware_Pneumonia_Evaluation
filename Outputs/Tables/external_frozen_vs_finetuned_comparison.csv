@@ -1,0 +1,2 @@
+condition,note
+fine_tuning_not_run,Set RUN_EXTERNAL_FINETUNE=True to run this optional condition.

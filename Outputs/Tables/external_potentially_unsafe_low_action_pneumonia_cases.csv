@@ -1,0 +1,2 @@
+case_id,pneumonia_probability_calibrated_mc,predictive_entropy,predictive_uncertainty_normalized,mc_std,calibration_gap,action,mcds_score
+292,0.026692651679526714,0.17752429208432907,0.17119477251726203,0.04083854174560081,0.939884329221284,Low-risk monitoring / outpatient follow-up,0.003597189099743825

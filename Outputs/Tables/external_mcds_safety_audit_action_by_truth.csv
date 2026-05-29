@@ -1,0 +1,5 @@
+action,Normal,Pneumonia
+Escalate review: high-risk but uncertain,15,94
+Low-risk monitoring / outpatient follow-up,36,1
+Request additional evidence or repeat imaging,180,88
+Treat as likely pneumonia with clinician confirmation,3,207
